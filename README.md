@@ -5,7 +5,7 @@ Witaj w moim portfolio! 👋 To repozytorium jest miejscem, w którym dokumentuj
 ## 🎯 Cele
 
 - Poszerzanie wiedzy z zakresu SQL i baz danych
-- Praca z różnymi systemami zarządzania bazami danych (PostgreSQL, MySQL, MSSQL)
+- Praca z bazą MySQL
 - Tworzenie praktycznych projektów i analiz
 - Optymalizacja zapytań SQL
 
@@ -15,19 +15,17 @@ W repozytorium znajdziesz:
 
 - 📌 Przykłady zapytań SQL
 - 📊 Projekty analityczne
-- 🏆 Wyzwania i zadania do rozwiązania
-- 📚 Notatki z nauki
+
 
 ## 🚀 Technologie
 
-- SQL (PostgreSQL, MySQL, MSSQL)
-- Narzędzia do pracy z bazami danych (DBeaver, pgAdmin, MySQL Workbench)
+- SQL (MySQL)
 
 ## 📫 Kontakt
 
 Jeśli chcesz się ze mną skontaktować, możesz znaleźć mnie tutaj:
 
-- 📧 Email: [Twój e-mail]
-- 💼 LinkedIn: [Twój profil]
+- 📧 Email: m.kosciolek.it@gmail.com
+- 💼 LinkedIn: 
 
 Dziękuję za odwiedzenie mojego portfolio! 🎉

@@ -14,12 +14,10 @@ Witaj w moim portfolio! 👋 To repozytorium jest miejscem, w którym dokumentuj
 W repozytorium znajdziesz:
 
 - 📌 Przykłady zapytań SQL
-- 📊 Projekty analityczne
-
 
 ## 🚀 Technologie
 
-- SQL (MySQL)
+- SQL
 
 ## 📫 Kontakt
 

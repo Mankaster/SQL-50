@@ -26,6 +26,6 @@ W repozytorium znajdziesz:
 Jeśli chcesz się ze mną skontaktować, możesz znaleźć mnie tutaj:
 
 - 📧 Email: m.kosciolek.it@gmail.com
-- 💼 LinkedIn: 
+- 💼 LinkedIn: www.linkedin.com/in/michał-kościołek-829116333
 
 Dziękuję za odwiedzenie mojego portfolio! 🎉
